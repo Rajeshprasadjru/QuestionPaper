@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Question Paper</string>
+    <string name="login_password_hint">password</string>
+    <string name="register">User Register</string>
+    <string name="login_email_hint">Login</string>
+    <string name="signup_login_hint">Signup</string>
+</resources>

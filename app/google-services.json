@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "214699820330",
+    "project_id": "question-paper-b59d4",
+    "storage_bucket": "question-paper-b59d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214699820330:android:fc1f287056333c2cba0a53",
+        "android_client_info": {
+          "package_name": "com.questionpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214699820330-vdpe6i6qdta7o8sl1dh9j9u7hprbk08l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-n64ciYFPQBMvMwhCzUqWFtuBNnEXUBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214699820330-vdpe6i6qdta7o8sl1dh9j9u7hprbk08l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
